@@ -1,0 +1,27 @@
+Kolor obiektu:
+Dla wyboru tekstury (obrazu) lub stałego koloru trzeba zaznaczyć odpowiedni radiobutton, a potem wybrać plik lub kolor z ColorDialog.
+
+Kolor światła:
+Po naciśnięciu przycisku "Choose", ktory znajduje się obok "Choose color of the light" pojawi się ColorDialog, gdzie można wybrać żądany kolor światła.
+
+Dokładność triangulacji:
+Suwak Accuracy odpowiada za zmianę dokładności triangulacji
+
+Kd, Ks, M:
+Wartości wymienionych wyżej parametrów można zmieniać za pomocą odpowiednio podpisanych suwaków
+
+Widoczność siatki i punkty kontrolne:
+Widoczność siatki i punktów kontrolnych jest kontrolowana przez odpowiednio podpisane Checkboxy
+
+Zmiana wysokości punktu kontrolnego:
+Jeśli na siatce punktów kontrolnych (checkbox) zaznaczyć punkt kontrolny, to zostanie on podświetlony na żółto, a jego wysokość można będzie zmienić przesuwając suwak "Change z of control points"
+
+Żródło światła:
+Dla zmiany wysokości płaszczyzny na której znajduje się światło należy zmienić suwak "Light height"
+
+Modyfikacja wektorów normalnych:
+Dla modyfikacji wektorów normalnych należy zaznaczyć checkbox "Modify normal map". Wektory normalne zostaną zmodyfikowane za pomocą domyślnej mapy. Żeby wgrać własną mapę należy wybrać odpowiedni RadioButton i wybrać plik.
+
+Animacja:
+Kontrola animacji odbywa się przez odpowiednie przyciski "Animate" i "Stop"
+
